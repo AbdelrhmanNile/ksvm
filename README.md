@@ -1,4 +1,7 @@
 # Knowledge Script Virtual Machine
+
+better implementation of my [MiniTroll](https://github.com/AbdelrhmanNile/MiniTroll) knowledge system
+
 KSVM is a virtual machine for executing Knowledge Scripts. Knowledge Scripts are a simple, declarative language for representing knowledge and do reasoning over it.
 
 ## Syntax
